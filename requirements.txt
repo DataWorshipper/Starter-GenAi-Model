@@ -1,0 +1,5 @@
+langchain
+langchain-huggingface
+huggingface_hub
+transformers
+streamlit
